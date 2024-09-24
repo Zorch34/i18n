@@ -1,0 +1,9 @@
+.header-light {
+    background-color: #f8f9fa;
+    color: black;
+  }
+  
+  .header-dark {
+    background-color: #343a40; 
+    color: white; 
+  }
